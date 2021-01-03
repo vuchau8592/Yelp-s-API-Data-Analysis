@@ -7,4 +7,8 @@ From Yelp API, following endpoint can be used to extract:
 - Event Endpoint: This endpoint returns the detailed information of a Yelp event
 - Category Endpoint: This endpoint returns all Yelp business categories across all locales by default.
 
-In this work, I will focus on all restaurants which are registered in Yelp's database across Finland.
+In this work, I will focus on all restaurants which are registered in Yelp's database across Finland. Following api and methods will be used:
+- Get data using Yelp's API
+- Web scrapping
+- Interactive plot with plotly, folium...
+- And some other methods of data cleaning.
